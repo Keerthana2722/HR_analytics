@@ -1,0 +1,1 @@
+This repository showcases an HR Analytics Dashboard created using Power BI, designed to provide actionable insights into key HR metrics.The dashboard supports HR decision-making by visualizing workforce demographics,promotion and retrenchment data,job satisfaction and performance ratings.
